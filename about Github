@@ -1,0 +1,15 @@
+1. What are the GIT and GitHub? Why GitHub is so popular in most of the projects?
+
+In today's world and industry, there are many softwares and codes developed by engineers. With such codes and vast project,there is a need of some repository as well as a version controller.
+Git is a version control system that is used to manage and keep track of one's source code (or software code) and it's history of changes viz different versions .
+Whereas GitHub is a cloud-based hosting service.
+Git is one of the distributed version control system commonly used for open source and commercial software development.
+
+
+2. What are the other platforms similar to GitHub?
+
+a. Gitlab 
+b. Bitbucket
+c. SourceForge 
+d. launchpad
+e. Google Cloud source Repositories
